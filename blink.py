@@ -1,3 +1,6 @@
+#blink.py
+#Andrés Méndez Cortez
+#parpadea un led
 from gpiozero import LED
 from time import sleep
 

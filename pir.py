@@ -1,3 +1,7 @@
+#pir.py
+#Andrés Méndez Cortez
+#obtiene lecturas del sensor PIR si hay movimiento en su rango
+
 from gpiozero import Button
 from signal import pause
 

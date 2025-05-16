@@ -1,3 +1,7 @@
+#servo_plus_Obs.py
+#Andrés Méndez Cortez
+#si el sensor infrarojo detecta algo, se levanta el servo, como pluma de estacionamiento
+
 from gpiozero import Servo
 from gpiozero import DigitalInputDevice
 from time import sleep

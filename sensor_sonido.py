@@ -1,3 +1,7 @@
+#sensor_sonido.py
+#Andrés Méndez Cortez
+#obtiene lecturas si se detecta un sonido (ej aplausos)
+
 from gpiozero import Button
 from signal import pause
 

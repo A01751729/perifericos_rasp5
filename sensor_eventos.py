@@ -1,3 +1,7 @@
+#sensor_eventos.py
+#Andrés Méndez Cortez
+#revisa si hay inclinación, agua o movimiento con el pir
+
 from gpiozero import Button 
 from signal import pause
 

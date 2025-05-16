@@ -1,3 +1,7 @@
+#servo_only.py
+#Andrés Méndez Cortez
+#mueve un servo a 90 grados, luego a 0 grados y luego a 180 grados en un tiempo de 3 segundos
+
 from gpiozero import Servo
 from time import sleep
 

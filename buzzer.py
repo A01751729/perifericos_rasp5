@@ -1,3 +1,7 @@
+#buzzer.py
+#Andrés Méndez Cortez
+#enciende el buzzer intermitentemente
+
 from gpiozero import Buzzer
 from time import sleep
 Zumbador=Buzzer(18)

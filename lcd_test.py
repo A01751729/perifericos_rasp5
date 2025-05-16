@@ -1,3 +1,7 @@
+#lcd_test.py
+#Andrés Méndez Cortez
+#manda y actualiza un mensaje en una pantalla lcd
+
 from RPLCD.i2c import CharLCD
 from time import sleep
 

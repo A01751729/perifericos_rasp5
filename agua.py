@@ -1,3 +1,7 @@
+#agua.py
+#Andrés Méndez Cortez
+#imprime si hay presencia de agua
+
 from gpiozero import Button
 from signal import pause
 

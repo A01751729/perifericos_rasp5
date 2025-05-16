@@ -1,3 +1,7 @@
+#ObstAvo_only.py
+#Andrés Méndez Cortez
+#obtiene lecturas digitales del sensor infrarojo
+
 from gpiozero import DigitalInputDevice
 from time import sleep
 

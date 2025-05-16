@@ -1,3 +1,7 @@
+#ultrasonico.py
+#Andrés Méndez Cortez
+#un boton activa la lectura de un sensor ultrasonico de distancia
+
 from gpiozero import DistanceSensor,Button
 from time import sleep
 

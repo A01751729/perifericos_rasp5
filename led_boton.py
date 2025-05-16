@@ -1,3 +1,7 @@
+#led_boton.py
+#Andrés Méndez Cortez
+#controla el encendido de un led con un boton
+
 from gpiozero import LED,Button
 from time import sleep
 from signal import pause

@@ -1,3 +1,7 @@
+#alarma.py
+#Andrés Méndez Cortez
+#si hay un sonido detectado el buzzer emite una alarma
+
 from gpiozero import Button
 from gpiozero import Buzzer
 from time import sleep

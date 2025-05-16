@@ -1,3 +1,7 @@
+#inclinacion.py
+#Andrés Méndez Cortez
+#revisa si el sensor de inclinacion se enciende
+
 from gpiozero import Button
 from signal import pause
 

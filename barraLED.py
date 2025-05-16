@@ -1,3 +1,7 @@
+#barraLED.py
+#Andrés Méndez Cortez
+#enciende y apaga la barra de leds
+
 from gpiozero import LEDBarGraph
 from time import sleep
 

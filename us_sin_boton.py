@@ -1,3 +1,7 @@
+#us_sin_boton.py
+#Andrés Méndez Cortez
+#obtiene lecturas de distancia de un sensor ultrasonico
+
 from gpiozero import DistanceSensor
 from time import sleep
 

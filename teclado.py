@@ -1,4 +1,7 @@
-#!/usr/bin/env python3
+#teclado.py
+#Andrés Méndez Cortez
+#mapea el grid del teclado en botones y luego los asigna para mostrar el valor del boton presionado
+
 from gpiozero import DigitalOutputDevice, Button
 from time import sleep
 

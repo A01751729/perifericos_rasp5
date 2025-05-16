@@ -1,3 +1,7 @@
+#encoder_rot.py
+#Andrés Méndez Cortez
+#marca la pocision del encoder en terminal
+
 from gpiozero import RotaryEncoder
 from signal import pause
 

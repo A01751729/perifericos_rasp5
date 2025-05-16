@@ -1,3 +1,7 @@
+#encoder_led_bar.py
+#Andrés Méndez Cortez
+#con el encoder enciende o apaga la barra de leds
+
 from gpiozero import LEDBarGraph, RotaryEncoder
 from signal import pause
 

@@ -1,3 +1,8 @@
+#DHT11.py
+#Andrés Méndez Cortez
+#obtiene datos de temperatura y humedad con el DHT11 en un entorno virtual
+
+
 import time
 import adafruit_dht
 import board
